@@ -76,7 +76,7 @@ h1, p{
 
 .example-a{
     /* width: 300px; */
-    display: inline-block;
+    display: inline;
 }
 
 /* positions */
